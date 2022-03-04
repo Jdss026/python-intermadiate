@@ -1,0 +1,32 @@
+<?xml version="1.0" ?><group>
+    <person id="100">
+        <name>Mike</name>
+        <age>34</age>
+        <weight>90</weight>
+        <height>175</height>
+    </person>
+    <person id="2">
+        <name>Anna</name>
+        <age>54</age>
+        <weight>91</weight>
+        <height>188</height>
+    </person>
+    <person id="3">
+        <name>New Name</name>
+        <age>25</age>
+        <weight>76</weight>
+        <height>190</height>
+    </person>
+    <person id="4">
+        <name>Angela</name>
+        <age>-10</age>
+        <weight>75</weight>
+        <height>160</height>
+    </person>
+    <person id="6">
+        <name>Paul Green</name>
+        <age>19</age>
+        <weight>80</weight>
+        <height>179</height>
+    </person>
+</group>
